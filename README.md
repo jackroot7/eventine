@@ -1,9 +1,6 @@
 *Eventine* is an open-source ticketing and event management application built using the Laravel PHP framework. Eventine allows event organisers to sell tickets to their events and manage attendees without paying service fees to third party ticketing companies.
 
-<p align="center">
-  <img src="/public/assets/images/logo-dark.png" alt="Eventine"/>
-  <img style='border: 1px solid #444;' src="https://www.Eventine.com/images/screenshots/screen1.PNG" alt="Eventine"/>
-</p>
+
 
 # Eventine
 Open-source ticket selling and event management platform
