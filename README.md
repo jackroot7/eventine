@@ -1,18 +1,18 @@
-*Attendize* is an open-source ticketing and event management application built using the Laravel PHP framework. Attendize allows event organisers to sell tickets to their events and manage attendees without paying service fees to third party ticketing companies.
+*Eventine* is an open-source ticketing and event management application built using the Laravel PHP framework. Eventine allows event organisers to sell tickets to their events and manage attendees without paying service fees to third party ticketing companies.
 
 <p align="center">
-  <img src="/public/assets/images/logo-dark.png" alt="Attendize"/>
-  <img style='border: 1px solid #444;' src="https://www.attendize.com/images/screenshots/screen1.PNG" alt="Attendize"/>
+  <img src="/public/assets/images/logo-dark.png" alt="Eventine"/>
+  <img style='border: 1px solid #444;' src="https://www.Eventine.com/images/screenshots/screen1.PNG" alt="Eventine"/>
 </p>
 
-# Attendize
+# Eventine
 Open-source ticket selling and event management platform
 
-> Please report bugs here: https://github.com/Attendize/Attendize/issues. Detailed bug reports are more likely to be looked at. Simple creating an issue and saying "it doesn't work" is not useful. Providing some steps to reproduce your problem as well as details about your operating system, PHP version etc can help.
+> Please report bugs here: https://github.com/Eventine/Eventine/issues. Detailed bug reports are more likely to be looked at. Simple creating an issue and saying "it doesn't work" is not useful. Providing some steps to reproduce your problem as well as details about your operating system, PHP version etc can help.
 
-> Take a look https://www.attendize.com/troubleshooting.html and follow the https://www.attendize.com/getting_started.html guide to make sure you have configured attendize correctly.  
+> Take a look https://www.Eventine.com/troubleshooting.html and follow the https://www.Eventine.com/getting_started.html guide to make sure you have configured Eventine correctly.  
 
-Documentation Website: https://www.attendize.com<br />
+Documentation Website: https://www.Eventine.com<br />
 
 ## Current Features (v2.X.X)
  - Beautiful mobile friendly event pages
@@ -43,7 +43,7 @@ Documentation Website: https://www.attendize.com<br />
 
 ## Minimum Requirements
 
-Attendize should run on most pre-configured LAMP or LEMP environments as long as certain requirements are adhered to. Attendize is based on the [Laravel Framework](https://laravel.com/)
+Eventine should run on most pre-configured LAMP or LEMP environments as long as certain requirements are adhered to. Eventine is based on the [Laravel Framework](https://laravel.com/)
 
 **PHP Requirements**
 1. PHP >= 7.1.3
@@ -61,13 +61,13 @@ Attendize should run on most pre-configured LAMP or LEMP environments as long as
 Feel free to fork and contribute. If you are unsure about adding a feature, create a Github issue to ask for Feedback. Read the [contribution guidelines](CONTRIBUTING.md)
 
 ## Submitting an issue
-If you encounter a bug in Attendize, please first search the list of current open [Issues on the GitHub repository](https://github.com/Attendize/Attendize/issues). You may add additional feedback on an existing bug report. If the issue you're having has not yet been reported, please open a new issue. There is a template available for new issues. Please fill out all information requested in the template so we can help you more easily.
+If you encounter a bug in Eventine, please first search the list of current open [Issues on the GitHub repository](https://github.com/Eventine/Eventine/issues). You may add additional feedback on an existing bug report. If the issue you're having has not yet been reported, please open a new issue. There is a template available for new issues. Please fill out all information requested in the template so we can help you more easily.
 
-Please note: support is not offered from the project maintainers through GitHub. Paid support is available by [purchasing a license](https://www.attendize.com/license.html).
+Please note: support is not offered from the project maintainers through GitHub. Paid support is available by [purchasing a license](https://www.Eventine.com/license.html).
 
 ## Installation
-To get developing straight away use the [Pre-configured Docker Environment](https://www.attendize.com/getting_started.html#running-attendize-in-docker-for-development)<br />
-To do a manual installation use the [Manual Installation Steps](https://www.attendize.com/getting_started.html#manual-installation)
+To get developing straight away use the [Pre-configured Docker Environment](https://www.Eventine.com/getting_started.html#running-Eventine-in-docker-for-development)<br />
+To do a manual installation use the [Manual Installation Steps](https://www.Eventine.com/getting_started.html#manual-installation)
 
 ## Upgrade
 To upgrade to a new version:
@@ -90,10 +90,10 @@ touch database/database.sqlite
 This will run the feature tests that hits the database using the `sqlite` database connection.
 
 ## Troubleshooting
-If you are having problems please read the [troubleshooting guide](https://www.attendize.com/troubleshooting.html) 
+If you are having problems please read the [troubleshooting guide](https://www.Eventine.com/troubleshooting.html) 
 
 ## License
-Attendize is open-sourced software licensed under the Attribution Assurance License. See [https://www.attendize.com/license.html](https://www.attendize.com/license.html) for further details. We also have white-label license options available.
+Eventine is open-sourced software licensed under the Attribution Assurance License. See [https://www.Eventine.com/license.html](https://www.Eventine.com/license.html) for further details. We also have white-label license options available.
 
 ## Code of Conduct
-The Attendize community operates a [Code of Conduct](CODE_OF_CONDUCT.md) to ensure everyone is able to participate comfortably, equally and safely.
+The Eventine community operates a [Code of Conduct](CODE_OF_CONDUCT.md) to ensure everyone is able to participate comfortably, equally and safely.
